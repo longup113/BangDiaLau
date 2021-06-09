@@ -1,8 +1,8 @@
 <?php
-		$hostname = "35.172.43.136";
+		$hostname = "3.135.230.91";
 		$user = "thanh";
 		$pass = "thanh@123";
-		$db = "no1sl";
+		$db = "thanhvjp";
 
 		$con = mysqli_connect($hostname,$user,$pass,$db);
 		mysqli_query($con,$db);
